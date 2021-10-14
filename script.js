@@ -1,4 +1,6 @@
-class Calc { var Fcalc = document.calc;
+class Calculator
+{ 
+	var Fcalc = document.calc;
 var Flag = false;
 var Now = 0;
 var PendingOp = "";
